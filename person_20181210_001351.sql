@@ -9,7 +9,9 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 -- ---------------------------------------------------------
+""
 
+TESTE
 
 -- Dump data of "person" -----------------------------------
 INSERT INTO `person`(`id`,`birthdate`,`document`,`email`,`last_name`,`name`,`pswd`,`registration_date`) VALUES ( '1', NULL, '41213209859', 'bruno@gmail.com', NULL, 'Bruno', 'bruno', '2018-12-10 00:12:02' );
